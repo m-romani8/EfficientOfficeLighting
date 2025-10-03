@@ -1,7 +1,8 @@
 # Efficient Office Lighting
-My IoT project, developed for the Internet of Things course.
+## My IoT project, developed for the Internet of Things course.
 ---
 <img src="images/IoT_System_Scheme.png"> 
+
 ---
 
 It's an IoT application that takes place in an office: every desk lamp is an IoT node that asks the machine learning node what brightness level should have in order to keep a comfortable lighting for the worker. 
