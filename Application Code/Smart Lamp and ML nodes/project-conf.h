@@ -1,0 +1,12 @@
+#ifndef PROJECT_CONF_H_
+#define PROJECT_CONF_H_
+
+
+#define COAP_MAX_CHUNK_SIZE      128
+
+
+#undef COAP_LOG_LEVEL
+#define COAP_LOG_LEVEL LOG_LEVEL_INFO
+
+
+#endif /* PROJECT_CONF_H_ */
